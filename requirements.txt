@@ -1,0 +1,7 @@
+xgboost
+gradio
+holidays
+pandas
+numpy
+matplotlib
+scikit-learn
