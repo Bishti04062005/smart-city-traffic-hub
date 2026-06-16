@@ -1,7 +1,3 @@
-# Live Link: 
-https://huggingface.co/spaces/Ahana04062005/smart-city-traffic-forecaster
-
-
 ---
 title: Smart City Traffic Forecaster
 emoji: ⚡
@@ -15,3 +11,8 @@ pinned: false
 ---
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+
+
+# Live Link: 
+https://huggingface.co/spaces/Ahana04062005/smart-city-traffic-forecaster
+
